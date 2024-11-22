@@ -15,5 +15,5 @@
     <string name="title_activity_qing_long_login">登录青龙</string>
 
 
-    <string name="action_clear_webview">清除cookie</string>
+    <string name="action_clear_webview">刷新</string>
 </resources>
